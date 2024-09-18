@@ -21,5 +21,5 @@ This is an interactive **TODO List** web application built using **HTML**, **CSS
 
 ## Technologies Used
 - **HTML5**: For the structure of the application.
-- **CSS3**: For styling the app and making it responsive.
+- **CSS3**: For styling the app.
 - **JavaScript**: Handles task management (add, edit, delete, and completion) and progress tracking.
